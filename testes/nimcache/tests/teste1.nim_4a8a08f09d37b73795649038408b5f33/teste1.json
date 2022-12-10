@@ -1,0 +1,56 @@
+{
+  "cacheVersion": "D20210525T193831",
+  "outputFile": "/home/marcelo/Documents/codigos/Nim/testes/tests/teste1",
+  "compile": [
+    [
+      "/home/marcelo/Documents/codigos/Nim/testes/nimcache/tests/teste1.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.8@slib@sstd@sprivate@sdigitsutils.nim.c",
+      "gcc -c  -w -fmax-errors=3   -I/home/marcelo/.choosenim/toolchains/nim-1.6.8/lib -I/home/marcelo/Documents/codigos/Nim/testes/tests -o /home/marcelo/Documents/codigos/Nim/testes/nimcache/tests/teste1.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.8@slib@sstd@sprivate@sdigitsutils.nim.c.o /home/marcelo/Documents/codigos/Nim/testes/nimcache/tests/teste1.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.8@slib@sstd@sprivate@sdigitsutils.nim.c"
+    ],
+    [
+      "/home/marcelo/Documents/codigos/Nim/testes/nimcache/tests/teste1.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.8@slib@ssystem@sassertions.nim.c",
+      "gcc -c  -w -fmax-errors=3   -I/home/marcelo/.choosenim/toolchains/nim-1.6.8/lib -I/home/marcelo/Documents/codigos/Nim/testes/tests -o /home/marcelo/Documents/codigos/Nim/testes/nimcache/tests/teste1.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.8@slib@ssystem@sassertions.nim.c.o /home/marcelo/Documents/codigos/Nim/testes/nimcache/tests/teste1.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.8@slib@ssystem@sassertions.nim.c"
+    ],
+    [
+      "/home/marcelo/Documents/codigos/Nim/testes/nimcache/tests/teste1.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.8@slib@ssystem@sdollars.nim.c",
+      "gcc -c  -w -fmax-errors=3   -I/home/marcelo/.choosenim/toolchains/nim-1.6.8/lib -I/home/marcelo/Documents/codigos/Nim/testes/tests -o /home/marcelo/Documents/codigos/Nim/testes/nimcache/tests/teste1.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.8@slib@ssystem@sdollars.nim.c.o /home/marcelo/Documents/codigos/Nim/testes/nimcache/tests/teste1.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.8@slib@ssystem@sdollars.nim.c"
+    ],
+    [
+      "/home/marcelo/Documents/codigos/Nim/testes/nimcache/tests/teste1.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.8@slib@ssystem@sio.nim.c",
+      "gcc -c  -w -fmax-errors=3   -I/home/marcelo/.choosenim/toolchains/nim-1.6.8/lib -I/home/marcelo/Documents/codigos/Nim/testes/tests -o /home/marcelo/Documents/codigos/Nim/testes/nimcache/tests/teste1.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.8@slib@ssystem@sio.nim.c.o /home/marcelo/Documents/codigos/Nim/testes/nimcache/tests/teste1.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.8@slib@ssystem@sio.nim.c"
+    ],
+    [
+      "/home/marcelo/Documents/codigos/Nim/testes/nimcache/tests/teste1.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.8@slib@ssystem.nim.c",
+      "gcc -c  -w -fmax-errors=3   -I/home/marcelo/.choosenim/toolchains/nim-1.6.8/lib -I/home/marcelo/Documents/codigos/Nim/testes/tests -o /home/marcelo/Documents/codigos/Nim/testes/nimcache/tests/teste1.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.8@slib@ssystem.nim.c.o /home/marcelo/Documents/codigos/Nim/testes/nimcache/tests/teste1.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.8@slib@ssystem.nim.c"
+    ],
+    [
+      "/home/marcelo/Documents/codigos/Nim/testes/nimcache/tests/teste1.nim_4a8a08f09d37b73795649038408b5f33/@m..@ssrc@smain.nim.c",
+      "gcc -c  -w -fmax-errors=3   -I/home/marcelo/.choosenim/toolchains/nim-1.6.8/lib -I/home/marcelo/Documents/codigos/Nim/testes/tests -o /home/marcelo/Documents/codigos/Nim/testes/nimcache/tests/teste1.nim_4a8a08f09d37b73795649038408b5f33/@m..@ssrc@smain.nim.c.o /home/marcelo/Documents/codigos/Nim/testes/nimcache/tests/teste1.nim_4a8a08f09d37b73795649038408b5f33/@m..@ssrc@smain.nim.c"
+    ],
+    [
+      "/home/marcelo/Documents/codigos/Nim/testes/nimcache/tests/teste1.nim_4a8a08f09d37b73795649038408b5f33/@mteste1.nim.c",
+      "gcc -c  -w -fmax-errors=3   -I/home/marcelo/.choosenim/toolchains/nim-1.6.8/lib -I/home/marcelo/Documents/codigos/Nim/testes/tests -o /home/marcelo/Documents/codigos/Nim/testes/nimcache/tests/teste1.nim_4a8a08f09d37b73795649038408b5f33/@mteste1.nim.c.o /home/marcelo/Documents/codigos/Nim/testes/nimcache/tests/teste1.nim_4a8a08f09d37b73795649038408b5f33/@mteste1.nim.c"
+    ]
+  ],
+  "link": [
+    "/home/marcelo/Documents/codigos/Nim/testes/nimcache/tests/teste1.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.8@slib@sstd@sprivate@sdigitsutils.nim.c.o",
+    "/home/marcelo/Documents/codigos/Nim/testes/nimcache/tests/teste1.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.8@slib@ssystem@sassertions.nim.c.o",
+    "/home/marcelo/Documents/codigos/Nim/testes/nimcache/tests/teste1.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.8@slib@ssystem@sdollars.nim.c.o",
+    "/home/marcelo/Documents/codigos/Nim/testes/nimcache/tests/teste1.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.8@slib@ssystem@sio.nim.c.o",
+    "/home/marcelo/Documents/codigos/Nim/testes/nimcache/tests/teste1.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.8@slib@ssystem.nim.c.o",
+    "/home/marcelo/Documents/codigos/Nim/testes/nimcache/tests/teste1.nim_4a8a08f09d37b73795649038408b5f33/@m..@ssrc@smain.nim.c.o",
+    "/home/marcelo/Documents/codigos/Nim/testes/nimcache/tests/teste1.nim_4a8a08f09d37b73795649038408b5f33/@mteste1.nim.c.o"
+  ],
+  "linkcmd": "gcc   -o /home/marcelo/Documents/codigos/Nim/testes/tests/teste1 /home/marcelo/Documents/codigos/Nim/testes/nimcache/tests/teste1.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.8@slib@sstd@sprivate@sdigitsutils.nim.c.o /home/marcelo/Documents/codigos/Nim/testes/nimcache/tests/teste1.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.8@slib@ssystem@sassertions.nim.c.o /home/marcelo/Documents/codigos/Nim/testes/nimcache/tests/teste1.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.8@slib@ssystem@sdollars.nim.c.o /home/marcelo/Documents/codigos/Nim/testes/nimcache/tests/teste1.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.8@slib@ssystem@sio.nim.c.o /home/marcelo/Documents/codigos/Nim/testes/nimcache/tests/teste1.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.8@slib@ssystem.nim.c.o /home/marcelo/Documents/codigos/Nim/testes/nimcache/tests/teste1.nim_4a8a08f09d37b73795649038408b5f33/@m..@ssrc@smain.nim.c.o /home/marcelo/Documents/codigos/Nim/testes/nimcache/tests/teste1.nim_4a8a08f09d37b73795649038408b5f33/@mteste1.nim.c.o    -ldl",
+  "extraCmds": [],
+  "configFiles": [
+    "/home/marcelo/.choosenim/toolchains/nim-1.6.8/config/nim.cfg",
+    "/home/marcelo/.choosenim/toolchains/nim-1.6.8/config/config.nims"
+  ],
+  "stdinInput": false,
+  "projectIsCmd": false,
+  "cmdInput": "",
+  "currentDir": "/home/marcelo/Documents/codigos/Nim/testes",
+  "cmdline": "",
+  "depfiles": [],
+  "nimexe": ""
+}
