@@ -97,6 +97,44 @@ var powerMove = power.zip(moves).toTable
 
 # Open Arrays
 
+func somaArray(oa: openArray[int]): int =
+    for i in oa :
+        result += i
+
+echo somaArray([1, 2, 3])        # 6
+echo somaArray([1, 2, 3, 4])     # 10
+echo somaArray(@[1, 2, 3, 4, 5]) # 15
+
+# Varargs
+
+func soma(valores: varargs[int]): int =
+    for i in valores :
+        result += i
+
+echo soma(1, 2, 3, 4)
+echo soma([1, 2, 3, 4])
+echo soma(@[1, 2, 3, 4])
+
+func concatena(strings: varargs[string, `$`]): string =
+    for s in strings :
+        result.add(s & " ")
+
+echo concatena("Meowscara", "é o", "melhor", "inicial")
+echo concatena(2, "+", 2, "=", 4)
+
+func quadrado(numero: int): int =
+    return numero * numero
+
+proc somaDosQuadrados(quadrados: varargs[int, quadrado]): int =
+    for n in quadrados :
+        result += n
+
+echo somaDosQuadrados(91, 42, 31, 63)
+echo [1, 2, 3, 4].somaDosQuadrados() 
+# Não funciona pois ele so aplicara a transformação em valores
+# e não em listas
+
+
 # Subanges
 
 # Enum
